@@ -57,7 +57,7 @@
 * 🏅 Cisco Introduction to Networks Certification :large_blue_circle: 
 * 🏅 Cisco Packet Tracer Certification :large_blue_circle: 
 <br><br>
-<br><br>
+
     <table>
 <a>
 <h2 style="font-family: 'Bodoni', sans-serif;">ㅤTécnico Em Redes De Computadores ㅤ
@@ -67,7 +67,7 @@
 </h2>
 </a>
 </table>
-
+<br><br>
 <br><br>
 <div align="center">
     <h2>CONTACT</h2>
