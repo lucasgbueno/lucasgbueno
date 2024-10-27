@@ -58,8 +58,6 @@
 * 🏅 Cisco Packet Tracer Certification :large_blue_circle: 
 
 <br><br>
-
-<br><br>
 <div align="center">
     <h2>CONTACT</h2>
     <p align="center">
@@ -74,6 +72,6 @@
 
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cl0uD-C1SC0&theme=dark"> <br><br><br>
-<img src="https://komarev.com/ghpvc/?username=cl0uD-C1SC0">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lucasgbueno&theme=dark"> <br><br><br>
+<img src="https://komarev.com/ghpvc/?username=lucasgbueno">
 </div>
