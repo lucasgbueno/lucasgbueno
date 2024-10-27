@@ -13,7 +13,7 @@
       <h2>Linux</h2>
       <a>
         <img align="center" alt="Linux" height="70" width="70" src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" />
-        <img align="center" alt="Kali" height="70" width="70" src="https://www.google.com/imgres?q=kali%20linux&imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FX23bnr4M7EQEFN26u_IaqadPjGgVODiv18ZUPsww-UWjA_m7YkIyQvhwDS3RhfrDh0WU%3Dw240-h480-rw&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.Inew.ikali%26hl%3Dpt&docid=vnguPsCe63m6oM&tbnid=hMaMTUYLtiD5oM&vet=12ahUKEwjQ3Yiou62JAxXtO7kGHaPkGEwQM3oECE4QAA..i&w=240&h=240&hcb=2&ved=2ahUKEwjQ3Yiou62JAxXtO7kGHaPkGEwQM3oECE4QAA" />
+        <img align="center" alt="Kali" height="70" width="70" src="https://camo.githubusercontent.com/00fda8888072880bf55510367297f6e1465da77a05673e8078dfba9de454c314/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f4b2f6b616c692d6c696e75782d6c6f676f2d414544313831313836452d7365656b6c6f676f2e636f6d2e706e67" />
       </a>
       <br>
       <br><br>
