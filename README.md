@@ -58,18 +58,15 @@
 * 🏅 Cisco Packet Tracer Certification :large_blue_circle: 
 <br><br>
 <br><br>
-<table style="border-spacing: 0; margin: 0; padding: 0;">
-  <tr>
-    <td style="padding: 0; margin: 0;">
-      <span style="font-family: 'Bodoni', sans-serif; font-size: 20px;">ㅤTécnico Em Redes De Computadores ㅤ</span>
-      <a href="https://github.com/lucasgbueno/lucasgbueno/blob/main/README-INTERACTIVE-1.md" style="text-decoration: none;">
-        <img align="center" alt="SENAI" height="40" width="40" src="https://icon-library.com/images/white-play-icon/white-play-icon-13.jpg" style="vertical-align: middle; border: none;"/>ㅤㅤ
-        <img align="center" alt="SENAI" height="90" width="250" src="https://img.swapcard.com/?u=https%3A%2F%2Fcdn-api.swapcard.com%2Fpublic%2Fimages%2F7b8d017b016349088959c85e0b48fe9e.png&q=0.8&m=fit&w=400&h=200" style="vertical-align: middle; border: none;"/>
-      </a>
-    </td>
-  </tr>
+    <table>
+<a>
+<h2 style="font-family: 'Bodoni', sans-serif;">ㅤTécnico Em Redes De Computadores ㅤ
+  <a href="https://github.com/lucasgbueno/lucasgbueno/blob/main/README-INTERACTIVE-1.md">
+  <img align="center" alt="SENAI" height="40" width="40" src="https://icon-library.com/images/white-play-icon/white-play-icon-13.jpg"/>ㅤㅤ
+  <img align="center" alt="SENAI" height="90" width="250" src="https://img.swapcard.com/?u=https%3A%2F%2Fcdn-api.swapcard.com%2Fpublic%2Fimages%2F7b8d017b016349088959c85e0b48fe9e.png&q=0.8&m=fit&w=400&h=200" />
+</h2>
+</a>
 </table>
-
 
 <br><br>
 <div align="center">
