@@ -58,6 +58,8 @@
 * 🏅 Cisco Packet Tracer Certification :large_blue_circle: 
 
 <br><br>
+
+<br><br>
 <div align="center">
     <h2>CONTACT</h2>
     <p align="center">
